@@ -59,5 +59,6 @@
 
 Для детального ознакомления с требованиями и дизайном проекта, предусмотрены:
 
-* Техническое задание (SRS - Software Requirements Specification)
-* Макеты приложения (Mockups)
+*   **[Техническое задание (SRS - Software Requirements Specification)](./docs/requirements/SRS.md)**
+*   **[Макеты приложения (Mockups)](./docs/mockups/)**
+
