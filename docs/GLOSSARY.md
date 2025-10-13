@@ -36,14 +36,6 @@ Posts can be later transformed into **PublicPosts** if made publicly accessible.
 
 ---
 
-### **PublicPost**
-
-A publicly visible representation of a Post.
-May contain sanitized, simplified, or limited data compared to the original Post.
-Used to expose selected user content to unauthenticated visitors.
-
----
-
 ### **Public**
 
 A conceptual entity representing open, unauthenticated access.
